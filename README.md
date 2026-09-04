@@ -1,3 +1,9 @@
+# Usage
+
+* Define all target websites in the environment configuration.
+* Create a system startup task to automatically start the PM2 service when the system boots.
+* Start PM2 using `environment.config.ts` as the process configuration file.
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
